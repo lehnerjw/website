@@ -1,0 +1,23 @@
+---
+title: "Josh Lehner"
+image: profile_bitmoji.png
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lehnerjw
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/josh-lehner-86b0ba47
+      target: _blank
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/lehnerjw
+      target: _blank
+---
+
+## About
+
+I am a husband, father, and economist. I specialize in US macro and the Fed. Previously I developed state economic and revenue forecasts. I used to run to drink good beer. These days I do HIIT because it's across the parking lot from my office.

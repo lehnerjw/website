@@ -1,0 +1,7 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Josh Lehner\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: false\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  engines:\n    - path: C:\\Users\\joshl\\AppData\\Local\\Programs\\Quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  theme: flatly\n  title: Josh Lehner\n  image: profile_bitmoji.png\n  about:\n    template: trestles\n    links:\n      - icon: twitter\n        text: Twitter\n        href: https://twitter.com/lehnerjw\n        target: _blank\n      - icon: linkedin\n        text: LinkedIn\n        href: https://www.linkedin.com/in/josh-lehner-86b0ba47\n        target: _blank\n      - icon: instagram\n        text: Instagram\n        href: https://instagram.com/lehnerjw\n        target: _blank\n  \n"]
+[1,"Output created: _site\\index.html\n\n"]
+[1,"Preparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:6759/\nListening on http://127.0.0.1:6759/\n"]
+[1,"GET: /\n"]
+[1,"ERROR: YAMLException: bad indentation of a mapping entry (C:\\LEHNER\\Website\\quarto-site\\_quarto.yml, 6:41)\n5:   title: \"Josh Lehner\"\n6:   site-url: [https://www.joshlehner.com](https://www.joshlehner.com)\n                                          ~~\n7:   navbar:\n"]

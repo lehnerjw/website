@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Josh Lehner"
+  site-url: [https://www.joshlehner.com](https://www.joshlehner.com)
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+
+editor: visual
+
