@@ -1,1 +1,1 @@
-Sitemap: [https://www.joshlehner.com](https://www.joshlehner.com)/sitemap.xml
+Sitemap: https://www.joshlehner.com/sitemap.xml
